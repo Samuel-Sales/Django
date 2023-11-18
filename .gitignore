@@ -1,0 +1,6 @@
+# Ambientes virtuais
+venv/
+
+# Outros exemplos
+.DS_Store
+__pycache__/
