@@ -4,3 +4,7 @@
 ```
 python manage.py startapp nome do app
 ```
+> Executar o server
+```
+python manage.py runserver
+```
